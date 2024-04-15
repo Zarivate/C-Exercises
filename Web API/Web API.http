@@ -10,7 +10,7 @@ Accept: application/json
 
 ###
 POST {{Web_API_HostAddress}}/pizza/
-Content-Type: application/json
+Content-Type: application/json-patch+json
 
 {
     "name": "Hawaii",
@@ -21,7 +21,7 @@ Content-Type: application/json
 
 ###
 PUT {{Web_API_HostAddress}}/pizza/3
-Content-Type: application/json
+Content-Type: application/json-patch+json
 
 {
     "id": 3,
