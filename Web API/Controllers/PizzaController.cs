@@ -2,6 +2,7 @@
 // https://localhost:{PORT}/pizza
 using ContosoPizza.Models;
 using ContosoPizza.Services;
+using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ContosoPizza.Controllers;
@@ -69,7 +70,24 @@ public class PizzaController : ControllerBase
         return NotFound();
        
     PizzaService.Delete(id);
-   
+    
+    
     return NoContent();
     }
+
+    // PATCH data field
+    [HttpPatch("{id}")]
+
+    public IActionResult UpdatePartial(int id, JsonPatchDocument<Pizza> patchDoc){
+
+        var pizza = PizzaService.Get(id);
+
+        if (pizza == null) {
+            return NotFound();
+        }
+        patchDoc.ApplyTo(pizza);
+
+        return new ObjectResult(pizza);
+    }
+    
 }
