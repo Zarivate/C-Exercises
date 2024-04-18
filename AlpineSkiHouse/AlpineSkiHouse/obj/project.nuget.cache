@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "W9c8IntN2r+k52gJWZAo0fSK2Oy7iH3zvT5tsrf+Y8D5zIH6RhaY5EBguDfKuiPXwhBYndNVeYcFi5sPBkrZgA==",
+  "dgSpecHash": "3fyTnHLxd+xcB//xNpxwuGXLDKZkLZVLKwbtqt1+0sVg1OAYkOJ9rkvJokl1yAbXNMbgGBDfdp3mYZfNDYTshQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\AlpineSkiHouse.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Oke\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
   "logs": []
 }
