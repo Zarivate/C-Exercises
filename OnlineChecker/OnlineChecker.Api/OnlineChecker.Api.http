@@ -1,0 +1,6 @@
+@OnlineChecker.Api_HostAddress = http://localhost:5211
+
+GET {{OnlineChecker.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

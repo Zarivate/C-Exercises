@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\OnlineChecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35640988-6594-4672-94E4-693337605097}|OnlineChecker.Api\\OnlineChecker.Api.csproj|c:\\users\\oke\\desktop\\projects\\c#\\onlinechecker\\onlinechecker.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35640988-6594-4672-94E4-693337605097}|OnlineChecker.Api\\OnlineChecker.Api.csproj|solutionrelative:onlinechecker.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35640988-6594-4672-94E4-693337605097}|OnlineChecker.Api\\OnlineChecker.Api.csproj|c:\\users\\oke\\desktop\\projects\\c#\\onlinechecker\\onlinechecker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35640988-6594-4672-94E4-693337605097}|OnlineChecker.Api\\OnlineChecker.Api.csproj|solutionrelative:onlinechecker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\OnlineChecker\\OnlineChecker.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "OnlineChecker.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\OnlineChecker\\OnlineChecker.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "OnlineChecker.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:25:56.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\OnlineChecker\\OnlineChecker.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineChecker.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\OnlineChecker\\OnlineChecker.Api\\appsettings.json",
+              "RelativeToolTip": "OnlineChecker.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T05:25:00.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
