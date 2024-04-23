@@ -2,7 +2,5 @@
   "dependencies": {
     "create-react-app": "^5.0.1"
   },
-  "devDependencies": {
-    "@babel/plugin-transform-private-property-in-object": "^7.24.1"
-  }
+  "devDependencies": {}
 }
