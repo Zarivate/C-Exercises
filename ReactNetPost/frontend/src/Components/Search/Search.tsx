@@ -1,4 +1,4 @@
-import React, { useState, ChangeEvent } from "react";
+import React, { useState, ChangeEvent, MouseEvent } from "react";
 
 type Props = {};
 
@@ -10,9 +10,17 @@ const Search: React.FC<Props> = (props: Props): JSX.Element => {
     console.log(e);
   };
 
+  // "SyntheticEvent" is also a good substitute if can't find type. Provides type checking as well.
+  const onSearchButtonClick = (
+    e: MouseEvent<HTMLButtonElement, globalThis.MouseEvent>
+  ) => {
+    console.log(e);
+  };
+
   return (
     <div>
       <input value={search} onChange={(e) => onSearchType(e)}></input>
+      <button onClick={(e) => onSearchButtonClick(e)}></button>
     </div>
   );
 };
