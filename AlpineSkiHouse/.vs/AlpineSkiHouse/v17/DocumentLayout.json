@@ -1,38 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\",
+  "WorkspaceRootPath": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|c:\\users\\oke\\desktop\\projects\\c#\\alpineskihouse\\alpineskihouse\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|solutionrelative:alpineskihouse\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlpineSkiHouse\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|c:\\users\\oke\\desktop\\projects\\c#\\alpineskihouse\\alpineskihouse\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|solutionrelative:alpineskihouse\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlpineSkiHouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|c:\\users\\oke\\desktop\\projects\\c#\\alpineskihouse\\alpineskihouse\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|solutionrelative:alpineskihouse\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlpineSkiHouse\\Pages\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|c:\\users\\oke\\desktop\\projects\\c#\\alpineskihouse\\alpineskihouse\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|solutionrelative:alpineskihouse\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlpineSkiHouse\\Pages\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|c:\\users\\oke\\desktop\\projects\\c#\\alpineskihouse\\alpineskihouse\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|solutionrelative:alpineskihouse\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlpineSkiHouse\\Pages\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|c:\\users\\oke\\desktop\\projects\\c#\\alpineskihouse\\alpineskihouse\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|solutionrelative:alpineskihouse\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlpineSkiHouse\\Pages\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|c:\\users\\oke\\desktop\\projects\\c#\\alpineskihouse\\alpineskihouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|solutionrelative:alpineskihouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|c:\\users\\oke\\desktop\\projects\\c#\\alpineskihouse\\alpineskihouse\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EF2FB09-92C3-4EED-8DDA-F83331B7FAF2}|AlpineSkiHouse\\AlpineSkiHouse.csproj|solutionrelative:alpineskihouse\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlpineSkiHouse\\Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,15 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AlpineSkiHouse\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -59,11 +55,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\appsettings.json",
               "RelativeDocumentMoniker": "AlpineSkiHouse\\appsettings.json",
-              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\appsettings.json",
+              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\appsettings.json",
               "RelativeToolTip": "AlpineSkiHouse\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -71,63 +67,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "AlpineSkiHouse\\Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T05:22:40.4Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Error.cshtml",
+              "RelativeToolTip": "AlpineSkiHouse\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T05:22:33.392Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Error.cshtml",
-              "RelativeToolTip": "AlpineSkiHouse\\Pages\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "AlpineSkiHouse\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T05:22:33.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T05:22:26.992Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "AlpineSkiHouse\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T05:22:26.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "AlpineSkiHouse\\Pages\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T05:22:25.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T05:22:25.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Privacy.cshtml",
               "RelativeToolTip": "AlpineSkiHouse\\Pages\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -135,16 +115,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "AlpineSkiHouse\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\C#\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Oke\\Desktop\\Projects\\CSharp\\AlpineSkiHouse\\AlpineSkiHouse\\Pages\\Index.cshtml",
               "RelativeToolTip": "AlpineSkiHouse\\Pages\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T02:22:01.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T02:22:01.564Z"
             }
           ]
         }
